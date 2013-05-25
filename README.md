@@ -2,7 +2,7 @@ assignment1
 ===========
 $ mkdir ~/My-Dragon
 
-$ cd ~/MyDragon
+$ cd ~/My-Dragon
 
 $ git intit
 Initialized empy Git repository in/Users/Ruby/My-Dragon/.git/
